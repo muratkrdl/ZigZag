@@ -1,12 +1,13 @@
 
 # Zig-Zag
 
-Our goal in the game is to cross the road
+Our goal in the game is to increase our score and stay on the platform
 
-You earn points when you cross the road and you return to the starting point
+With each click, the ball changes direction and its speed increases by 1 percent
 
-If the car hits you, you lose all your points and the game starts from the beginning
+Each platform we pass earns us 1 point
 
+Falling off the platform means game over
 
 # Gameplay
 
